@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Abdurahman Maarouf
+My Data Science Portfolio 
 
-You can use the [editor on GitHub](https://github.com/abdumaa/Abdu_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# [Project 1: Costumer Churn Classification](https://github.com/abdumaa/Customer-churn-Classification)
+* Kaggle-Dataset containing 3333 costumers who either left (churn = 1) or stayed (churn = 0) in the company
+* Dataset also included 10 features of the costumers including contract details and consumer-behavior
+* Exploratory Data Analysis of Dataset
+* Main insight: Costumers with high monthly charge and low data usage cancelled their service
+* Build Machine-Learning-Models (such as Random Forest, XG-Boost) for the classification of costumers in the two groups
+* The classes where imbalanced so I tried Upsampling and Downsampling; Upsampling yielded the better results
+* **Accuracy on Test-Data:** XG-Boost (Accuracy: 95,2 %, AUROC: 91,7 %), Random Forest (Accuracy: 91,1 %, AUROC: 93,4 %)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# [Project 2: NBA Salary Prediction](https://github.com/abdumaa/NBA-Salary-Prediction)
+* Crawled data from [Basketball Reference](https://www.basketball-reference.com)
+* Data: Salary Details for NBA Players of the season 19/20, Multiple NBA Player Stats per game of the seasons 18/19 and 17/18
+* Cleaned the data and prepared it for the analysis
+* Exploratory Data Analysis of Dataset with only 431 Players
+* Main Insight: Strong positive linear correlation between Salary and Points, Turnover and Assists per game 
+* Build Machine-Learning-Models (such as Ridge, Lasso Regression and XG-Boost) to create a prediction model
+* Tried to avoid the problem of high multicollinearity in the dataset
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abdumaa/Abdu_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# There is more to come soon so stay tuned!
