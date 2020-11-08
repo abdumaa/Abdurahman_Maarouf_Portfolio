@@ -27,6 +27,4 @@
   
   
 ## There is more to come soon so stay tuned!
-  
-  
-![](/giphy.gif){:height="100%" width="100%"}
+
