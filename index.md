@@ -1,6 +1,3 @@
-# Abdurahman Maarouf
-My Data Science Portfolio 
-
 # [Project 1: Costumer Churn Classification](https://github.com/abdumaa/Customer-churn-Classification)
 * Kaggle-Dataset containing 3333 costumers who either left (churn = 1) or stayed (churn = 0) in the company
 * Dataset also included 10 features of the costumers including contract details and consumer-behavior
