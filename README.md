@@ -7,6 +7,8 @@
 * The classes where imbalanced so I tried Upsampling and Downsampling; Upsampling yielded the better results
 * **Accuracy on Test-Data:** XG-Boost (Accuracy: 95,2 %, AUROC: 91,7 %), Random Forest (Accuracy: 91,1 %, AUROC: 93,4 %)
 
+![](https://github.com/abdumaa/Customer-churn-Classification/blob/main/__results___31_1.png)
+
 # [Project 2: NBA Salary Prediction](https://github.com/abdumaa/NBA-Salary-Prediction)
 * Crawled data from [Basketball Reference](https://www.basketball-reference.com)
 * Data: Salary Details for NBA Players of the season 19/20, Multiple NBA Player Stats per game of the seasons 18/19 and 17/18
