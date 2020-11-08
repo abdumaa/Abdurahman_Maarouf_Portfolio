@@ -7,7 +7,7 @@
 * The classes where imbalanced so I tried Upsampling and Downsampling; Upsampling yielded the better results
 * **Accuracy on Test-Data:** XG-Boost (Accuracy: 95,2 %, AUROC: 91,7 %), Random Forest (Accuracy: 91,1 %, AUROC: 93,4 %)
 
-![](/scatterplot.png){:height="70%" width="70%"}
+![](/scatterplot.png){:height="100%" width="100%"}
 
 # [Project 2: NBA Salary Prediction](https://github.com/abdumaa/NBA-Salary-Prediction)
 * Crawled data from [Basketball Reference](https://www.basketball-reference.com)
@@ -18,8 +18,8 @@
 * Build Machine-Learning-Models (such as Ridge, Lasso Regression and XG-Boost) to create a prediction model
 * Tried to avoid the problem of high multicollinearity in the dataset
 
-![](/heatmap.png){:height="70%" width="70%"}
+![](/heatmap.png){:height="100%" width="100%"}
 
 # There is more to come soon so stay tuned!
 
-![](/giphy.gif){:height="120%" width="120%"}
+![](/giphy.gif){:height="100%" width="100%"}
