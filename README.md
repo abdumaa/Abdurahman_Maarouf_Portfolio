@@ -7,7 +7,7 @@
 * The classes where imbalanced so I tried Upsampling and Downsampling; Upsampling yielded the better results
 * **Accuracy on Test-Data:** XG-Boost (Accuracy: 95,2 %, AUROC: 91,7 %), Random Forest (Accuracy: 91,1 %, AUROC: 93,4 %)
 
-![](https://github.com/abdumaa/Customer-churn-Classification/blob/main/__results___31_1.png)
+![](/__results___31_1.png)
 
 # [Project 2: NBA Salary Prediction](https://github.com/abdumaa/NBA-Salary-Prediction)
 * Crawled data from [Basketball Reference](https://www.basketball-reference.com)
@@ -17,5 +17,7 @@
 * Main Insight: Strong positive linear correlation between Salary and Points, Turnover and Assists per game 
 * Build Machine-Learning-Models (such as Ridge, Lasso Regression and XG-Boost) to create a prediction model
 * Tried to avoid the problem of high multicollinearity in the dataset
+
+![](/__results___61_1.png)
 
 # There is more to come soon so stay tuned!
