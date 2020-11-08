@@ -22,4 +22,4 @@
 
 # There is more to come soon so stay tuned!
 
-![](/giphy.gif)
+![](/giphy.gif){:height="150%" width="150%"}
