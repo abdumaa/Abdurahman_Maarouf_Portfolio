@@ -1,4 +1,4 @@
-# [Project 1: Costumer Churn Classification](https://github.com/abdumaa/Customer-churn-Classification)
+# [Project 1: Customer Churn Classification](https://github.com/abdumaa/Customer-churn-Classification)
 * Kaggle-Dataset containing 3333 customers who either left (churn = 1) or stayed (churn = 0) in the company
 * Dataset also included 10 features of the costumers including contract details and consumer-behavior
 * Exploratory Data Analysis of Dataset
