@@ -4,7 +4,7 @@
 * Exploratory Data Analysis of Dataset
 * Main insight: Customers with high monthly charge and low data usage cancelled their service
 * Build Machine-Learning-Models (such as Random Forest, XG-Boost) for the classification of customers in the two groups
-* The classes where imbalanced so I tried Upsampling and Downsampling; Upsampling yielded the better results
+* The classes were imbalanced so I tried Upsampling and Downsampling; Upsampling yielded the better results
 * **Accuracy on Test-Data:** XG-Boost (Accuracy: 95,2 %, AUROC: 91,7 %), Random Forest (Accuracy: 91,1 %, AUROC: 93,4 %)
   
     
@@ -19,7 +19,6 @@
 * Exploratory Data Analysis of Dataset with only 431 Players
 * Main Insight: Strong positive linear correlation between Salary and Points, Turnover and Assists per game 
 * Build Machine-Learning-Models (such as Ridge, Lasso Regression and XG-Boost) to create a prediction model
-* Tried to avoid the problem of high multicollinearity in the dataset
   
   
 ![](/heatmap.png){:height="100%" width="100%"}
