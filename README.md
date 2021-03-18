@@ -9,10 +9,25 @@
   
     
 ![](/scatterplot.png){:height="100%" width="100%"}
+
+
+
+# [Project 2: Appartment Rent Predicition](https://github.com/abdumaa/Pred-Challange)
+* Project of my University Subject "Machine Learning"
+* Dataset contains 39240 different appartments in Germany with 13 variables
+* Goal: Build prediction model for rent prices minimizing RMSE on unseen data
+* Exploratory Data Analysis of Dataset
+* Feature Engineering (splitting) of Postcode Variable: First two digits represent region, last three are the area in that region
+* Build Machine-Learning-Models (such as Ridge, Lasso Regression and XG-Boost) to create a prediction model
+* Used RandomizedSearchCV and GridSearchCV to find best parameters of Models
+* **Accuracy on Test-Data:** XG-Boost (RMSE: 114,82)
+
+
+![](/feature_importance.png){:height="100%" width="100%"}
   
     
    
-# [Project 2: NBA Salary Prediction](https://github.com/abdumaa/NBA-Salary-Prediction)
+# [Project 3: NBA Salary Prediction](https://github.com/abdumaa/NBA-Salary-Prediction)
 * Crawled data from [Basketball Reference](https://www.basketball-reference.com)
 * Data: Salary Details for NBA Players of the season 19/20, Multiple NBA Player Stats per game of the seasons 18/19 and 17/18
 * Cleaned the data and prepared it for the analysis
